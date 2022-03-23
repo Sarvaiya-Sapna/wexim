@@ -1099,16 +1099,69 @@ text-align: center;
 {
 list-style-type: none;
 }
-.fa-edit , .fa-diamond
+.diamond-main
+{
+    text-align: center;
+}
+.edit-main
+{
+    text-align: center;
+}
+.size
 {
     font-size: 38px;
+}
+.h4-text
+{
+    font-size: 24px;
+    font-family:'Poppins',sans-serif;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+.fa-edit , .fa-diamond, .fa-code, .fa-folder-open-o
+{
     margin-bottom: 25px;
     background: linear-gradient(to right, #3264f5 2%,#7202bb 82%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.diamond-main
+{
+    margin-bottom: 48px;
+    margin-top: 90px;
+}
+.div-mbl
+{
+    position:relative;
+}
+.div-img
+{
+    position:absolute;
+    top:12%;
+    left:8%;
+}
 .mbl-img
 {
-    width: 230px;
+
+    width: 280px;
     margin: 0 auto;
+}
+.main-flexx
+{
+    display: flex;
+    margin-top: 30px;
+}
+.inner-img
+{
+    width: 235px;
+    height: 416px;
+}
+.theme-para
+{
+    color:#9c9c9c;
+    width: 50%;
+    font-size: 15px;
+    font-family: 'Roboto',sans-serif;
+    line-height: 1.8;
+    margin-left: 150px;
 }
