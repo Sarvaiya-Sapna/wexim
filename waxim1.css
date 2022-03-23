@@ -1,0 +1,411 @@
+
+
+@media only screen and (max-width:1440px)
+ {
+    .circle-icon
+    {   
+    margin:0 auto;
+    }
+    .nav-bar
+    {
+        justify-content: center;
+        margin: 0px;
+    }
+    .parra
+    {
+        margin: 24px 73px;
+    }
+}
+@media only screen and (max-width:1000px)
+ {
+    .first{
+        display: none;
+    }
+    .second{
+        display: none;
+    }
+    .logo{
+        position: absolute;
+        left: 0;
+    }
+}
+@media only screen and (max-width:1024px) 
+ {
+    .heading
+    {
+        width: 70%;
+    }
+        .nav-link
+        {
+            padding: 6px 10px;
+        }
+
+        .img-sec
+        {
+            width: 100%;
+        }
+       .brand , .brand-head , .brand-para , .brand-head, .progress-head
+       {
+           padding-left:30px;
+       }
+       .brand 
+       {
+           margin-top: -30px;
+       }
+       .back-ground
+       {
+           height: 150vh;
+       }
+       .service-para
+       {
+           width: 70%;
+       }
+       .com-para
+       {
+           width: 65%;
+       }
+       .price-div
+       {
+          width: 70%;
+       }
+       .price-para
+       {
+           width: 100%;
+       }
+       .price-flex
+       {
+           margin: 0 30px;
+       }
+       .parra
+       {
+           margin: 24px 0px;
+       }
+       .main1
+       {
+           width: 62%;
+       }
+       .main2
+       {
+           width: 70%;
+       }
+      }
+  @media only screen and (max-width:1100px)
+ {
+        .icon-logo
+        {
+            padding-left: 90px;
+        }
+ }
+@media only screen and (max-width:768px) {
+    .service-white
+    {
+        text-align: center;
+    }
+.temp-para
+{
+    width: 80%;
+}
+.about-right
+{
+    width: 100%;
+}
+.about-left
+{
+    padding: 120px 0px;
+    width: 100%;
+}
+ .heading
+    {
+        width: 80%;
+    }
+ .about 
+    {
+        width: 100%;
+        display: block;
+    }
+ .brand,.brand-para,.brand-head,.progress-head
+ {
+     padding:0 15px;
+ }
+ .service-container 
+ {
+     padding: 0px;
+ }
+ .service-para 
+ {
+    width: 90%;
+}
+.com-para 
+{
+    width: 85%;
+}
+.comp1 
+{
+    display: none;
+}
+.comp 
+{
+    flex-direction: column;
+}
+.card-container 
+{
+    margin: 0 75px;
+}
+.img-set1
+{
+    width: 100%;
+    flex-direction: row-reverse;
+}
+.img-set 
+{
+    width:100%;
+}
+.mos
+{
+    font-family: 'Poppins',sans-serif;
+    font-size: 15px;
+    color: #2b2b2b;
+}
+.price-div
+       {
+          width: 85%;
+       }
+.price-flex
+{
+    display: block;
+    margin: 0 100px;
+}
+.inner-box
+{
+    text-align: center;
+}
+.box-price1
+{
+    margin-top: 25px;
+}
+.month
+{
+    justify-content: center;
+}
+.trans::before
+{
+    width: 48%;
+}
+.main1
+{
+    margin: 60px 80px;
+}
+.main2 
+{
+    margin: 60px 80px;
+    width: 74%;
+}
+.first-num
+{
+    text-align: left;
+}
+.divide
+ {
+     display: block;
+ }
+ .left-part
+ {
+     width: calc(100% - 30px);
+     margin: 0px;
+ }
+ .right-part
+ {
+     width: 100%;
+ }
+ .trans::before
+ {
+     width: 100%;
+ }
+ /* .trans 
+ {
+     width:100%;
+ } */
+ .parra
+ {
+     width: 80%;
+     margin: 26px 70px;
+ }
+ .last-para
+ {
+     padding-bottom: 60px;
+ }
+}
+ 
+@media only screen and (max-width:450px) 
+{
+    .service-head 
+    {
+        text-align: center;
+    }
+  .four-head
+  {
+      padding: 0px 20px;
+  }
+    .service-white
+    {
+        font-size: 32px;
+        font-weight: 500;
+    }
+  .heading 
+  {
+      font-size: 35px;
+      width: 70%;
+  }    
+  .temp-para
+  {
+      width: 90%;
+  }
+  .about-left
+  {
+      text-align: center;
+  }
+  .brand-head
+  {
+      font-size: 35px;
+  }
+  .service-box
+  {
+      display: block;
+  }
+  .img-set 
+  {
+      display: block;
+  }
+  .img-set1 
+  {
+      display: block;
+  }
+  .head-company
+{
+    font-size:17px;
+}
+.head-create 
+{
+    font-size: 35px;
+}
+.team-img
+{
+    width: 100%;
+}
+.img-set 
+{
+    width: 100%;
+}
+.img-set1 
+{
+    width: 100%;
+}
+.first-div
+{
+    width: 100%;
+    padding: 40px 0px;
+}
+.color-para
+{   
+    margin: 0 10px;
+}
+.name,.color-para
+{
+    text-align: center;
+}
+.icon-flex
+{
+    justify-content: center;        
+}
+.dev 
+{
+    text-align: center;
+}
+.comp
+{
+    padding-left: 0px;
+}
+.card-container 
+{
+    margin: 0 15px;
+}
+.price-div
+       {
+          width: 90%;
+       }
+ .price-flex
+ {
+     margin: 0px;
+ }
+ .divide
+ {
+     display: block;
+ }
+ .left-part
+ {
+     width: 93%;
+ }
+ .right-part
+ {
+     width: 100%;
+ }
+ .trans::before
+ {
+     width: 100%;
+ }
+ .parra
+ {
+     width: 100%;
+     margin: 26px 0px;
+ }
+ .last-para
+ {
+     padding-bottom: 60px;
+ }
+ .main1
+ {
+     margin:60px;
+ }
+ .main2
+ {
+     margin: 60px 40px;
+     width: 80%;
+ }
+}
+@media only screen and (max-width:350px) 
+{
+    .inner-box
+    {
+        padding: 28px;
+    }
+    .price-head
+    {
+        font-size:35px;
+    }
+}
+@media only screen and (max-width:320px) 
+{
+    .inner-box
+    {
+        padding: 28px;
+    }
+    .price-flex
+    {
+        padding-bottom: 70px;
+    }
+    .left-part
+    {
+        padding-top: 70px;
+    }
+    .trans::before {
+        height: 460px;
+    } 
+    .right-part
+    {
+        height: 460px;
+    }
+    .left-part
+    {
+        width: calc(100% - 30px);
+    }
+}
