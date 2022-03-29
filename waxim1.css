@@ -292,6 +292,15 @@
  {
      padding-top: 20px;
  }
+ div.port-img
+ {
+     order: 1;
+ }
+ div.port-img2
+ {
+     order: 2;
+ }
+ 
 }
 @media only screen and (max-width:576px) {
     .input1, .input2, .input3, .input4
@@ -480,6 +489,11 @@
 }
 .left-agency {
     width: 100%;
+}
+.footer-icon1>li
+{
+    height: 40px;
+    margin: 0 20px;
 }
 }
 
